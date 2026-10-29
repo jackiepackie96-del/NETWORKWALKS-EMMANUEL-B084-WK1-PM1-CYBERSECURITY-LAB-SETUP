@@ -168,7 +168,7 @@ After completing the initial configuration, a VirtualBox snapshot was created.
 Example snapshot name:
 
 ```text
-Clean Kali - Network Setup
+initial
 ```
 
 The snapshot represents the clean baseline of the laboratory.
@@ -289,3 +289,17 @@ This laboratory is intended strictly for education purposes only.
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 
 ---
+# 👤 Author
+
+**Waqas Karim**\
+Cybersecurity Professional B082
+
+LinkedIn: www.linkedin.com/in/suyog-sharma-964800214
+
+
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
