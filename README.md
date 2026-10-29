@@ -185,7 +185,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 | 🌐 Check IP address           | `ip a`                          | Correct Kali IP displayed       |
 | 📡 Test gateway               | `ping 10.0.0.1`                 | Successful replies              |
 | 🌍 Test Internet connectivity | `ping 8.8.8.8`                  | Successful replies              |
-| 🔎 Test DNS resolution        | `nslookup networkwalks.com`     | Domain resolves                 |
+| 🔎 Test DNS resolution        | `nslookup wireshark.com`        | Domain resolves                 |
 | 🧰 Verify Nmap                | `nmap --version`                | Nmap version displayed          |
 | 🔄 Verify snapshot            | Restore snapshot and run `ip a` | Baseline configuration restored |
 
@@ -291,8 +291,7 @@ This laboratory is intended strictly for education purposes only.
 ---
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Suyog Sharma**\
 
 LinkedIn: www.linkedin.com/in/suyog-sharma-964800214
 
